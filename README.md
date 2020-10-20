@@ -1,1 +1,3 @@
-# phh-magisk-builder
+# phh-magisk-
+
+Build phh magisk on github
